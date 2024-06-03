@@ -30,9 +30,6 @@ The analysis process involves the following steps:
 - Calculate the percentage of each category.
 - Compute the NPS using the formula: NPS = %Promoters - %Detractors.
 
-## Results
-The results of the analysis, including the NPS score and visualizations, are documented in the results folder. A detailed explanation of the findings and insights derived from the data can be found in the NPS_Analysis_Report.pdf.
-
 ## Installation
 To run the analysis locally, follow these steps:
 - Clone the repository:
@@ -48,4 +45,7 @@ To run the analysis locally, follow these steps:
 ## Usage
 Run the analysis script to calculate the NPS:
 
-    python src/nps_calculation.py
+    python src/nps_calculation.ipynb
+
+## Results
+The results of the analysis, including the NPS score and visualizations, are documented and the detailed explanation of the findings and insights derived from the data can be found in the nps_calculation.ipynb file.
