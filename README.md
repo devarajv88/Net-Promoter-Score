@@ -10,9 +10,9 @@ The NPS is a crucial metric used to measure customer satisfaction and loyalty. T
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
 3. [Methodology](#methodology)
-4. [Results](#results)
-5. [Installation](#installation)
-6. [Usage](#usage)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Results](#results)
 
 ## Introduction
 The Net Promoter Score (NPS) is a widely recognized metric for assessing customer loyalty. It is calculated based on responses to the question: "On a scale of 0 to 10, how likely are you to recommend our company/product/service to a friend or colleague?" Customers are categorized as Promoters (9-10), Passives (7-8), or Detractors (0-6). The NPS is then calculated by subtracting the percentage of Detractors from the percentage of Promoters.
